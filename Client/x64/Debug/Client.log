@@ -1,0 +1,5 @@
+﻿  Client.c
+C:\Users\Kostya\Desktop\C AND S\Client\Client\Client.c(26,38): warning C4133: функция: несовместимые типы - из "SOCKADDR_IN *" в "const sockaddr *"
+  Client.vcxproj -> C:\Users\Kostya\Desktop\C AND S\Client\x64\Debug\Client.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
